@@ -1,0 +1,29 @@
+
+
+#show-time {
+    font-family: monospace;
+    font-size: 120px;
+    text-align: center;
+}
+
+#buttons {
+    text-align: center;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+}
+
+#wrapper {
+    width: 500px;
+    margin: 50px auto 00;
+}
+
+#laps {
+    width: 100%;
+    height: 200px;
+    overflow: auto;
+    text-align: center;
+
+}
